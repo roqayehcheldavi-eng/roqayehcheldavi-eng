@@ -1,56 +1,132 @@
 # Hi, I'm Roqayeh Cheldavi 👋
 
-### 🐍 Python Developer | 📊 Dashboard Builder | 💡 Vibe Coder
+### 🐍 Python Developer | 📊 Business & Data Dashboard Builder | 💡 Vibe Coder
 
 Welcome to my GitHub profile! 🚀
 
-I'm **Roqayeh Cheldavi**, a **35-year-old developer** who enjoys building practical, data-driven applications with a strong focus on **Python, SQLite, dashboards, and modern development workflows**.
+I'm **Roqayeh Cheldavi**, a **35-year-old professional** with a background in **business management, sales, marketing, distribution, data analysis, and technology**.
 
-I believe great software doesn't always need to be complicated.  
-My goal is to build solutions that are **simple, useful, maintainable, and easy to evolve**. ✨
+I'm passionate about combining **business knowledge with technology** to build practical, data-driven solutions.
+
+I enjoy turning real-world problems into simple and useful software using **Python, SQLite, dashboards, automation, and AI-assisted development**. 🧠💻
 
 ---
 
 ## 🧠 About Me
 
-- 🐍 Mainly working with **Python**
-- 🗃️ Using **SQLite** for lightweight and efficient data storage
-- 📊 Building **interactive dashboards and data-driven applications**
-- 💻 Exploring modern **Vibe Coding** workflows
-- 🛠️ Interested in automation, analytics, and practical software solutions
-- 🚀 Constantly experimenting with new ideas and improving existing systems
-- 🔒 Most of my projects are **private and personal**
+- 🐍 Working with **Python**
+- 🗃️ Using **SQLite** for lightweight and practical data solutions
+- 📊 Building **interactive dashboards and KPI systems**
+- 🤖 Exploring **AI-assisted development & Vibe Coding**
+- 💼 Background in **Business Management, Sales & Marketing**
+- 📈 Interested in **data-driven decision making**
+- 🌍 Interested in **international business, trade, and technology**
+- 🚀 Turning business ideas into practical digital solutions
 
 ---
 
-## ⚙️ Tech Stack
+## 🎓 Education
 
-### 💻 Development
+### 🎓 Academic Background
+
+- 🎓 **PhD Student in Information Technology Management — Smart Business**
+- 🎓 **Master's Degree in Business Management — Internal Commerce**
+- 🎓 **Bachelor's Degree in Chemistry**
+
+### 📚 Professional Training & Certifications
+
+- 💼 **MBA — Executive Business Management**
+- 📣 **International Certificate in Marketing Management**
+- 🧾 **International Certificate in Comprehensive Accounting**
+- 💻 **ICDL Skills Certificate – Levels 1 & 2**
+- 📊 **Advanced Excel & Business Intelligence (BI)**
+- 🏢 **Sales System Development — Hybrid Sales Model**
+  - Micro Distribution / Van Sales
+  - Key Account / Traditional Sales
+- 🌍 **Foreign Trade & International Business Training**
+- 🚢 **Import & Export Training**
+- 📦 **Incoterms 2022**
+- 🌐 **Iran Customs Single Window System (EPL)**
+- 🗣️ **Communication & Public Speaking Skills**
+
+---
+
+## 💼 Professional Interests
+
+My professional background combines **business, sales, distribution, marketing, and technology**.
+
+I am particularly interested in building systems that connect these areas:
+
+```text
+💼 Business
+   ↓
+📊 Data
+   ↓
+🧠 Analysis
+   ↓
+🐍 Python
+   ↓
+🗃️ SQLite
+   ↓
+📈 Dashboard
+   ↓
+🎯 Better Decisions
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Database
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data & Dashboards
-![Data](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboards-4CAF50?style=for-the-badge)
+### 📊 Data & Business Intelligence
 
-### 🧠 Development Approach
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![BI](https://img.shields.io/badge/Business%20Intelligence-5C2D91?style=for-the-badge)
+
+### 🤖 AI-Assisted Development
+
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-8A2BE2?style=for-the-badge)
 
 ---
 
 ## 📊 What I Like Building
 
-I enjoy creating applications such as:
+I enjoy creating practical applications such as:
 
-- 📈 Business & sales dashboards
-- 📊 KPI and performance monitoring systems
-- 🗃️ Data management tools
-- ⚡ Automation utilities
+- 📈 Sales & business dashboards
+- 🎯 KPI and performance monitoring systems
+- 🗃️ Data management applications
+- ⚡ Business automation tools
+- 📊 Reporting and analytics systems
 - 🧩 Internal business applications
-- 🔎 Data exploration and reporting tools
-- 🛠️ Small tools that solve real-world problems
+- 🔎 Data exploration tools
+- 🤖 AI-assisted software projects
+
+---
+
+## 🤖 Vibe Coding
+
+I'm interested in **Vibe Coding** — using AI as a development partner to move quickly from an idea to a working product.
+
+My approach is not simply generating code.
+
+It is about:
+
+🧠 Understanding the problem  
+💡 Defining the solution  
+🤖 Working with AI  
+🛠️ Building quickly  
+🔍 Reviewing the result  
+🧪 Testing  
+🔄 Improving  
+🚀 Shipping
 
 ---
 
@@ -58,63 +134,44 @@ I enjoy creating applications such as:
 
 > **Build it. Test it. Improve it. Repeat. 🔄**
 
-I prefer practical development over unnecessary complexity.
+I prefer practical solutions over unnecessary complexity.
 
-My approach is usually:
+My goal is to create software that is:
 
-```text
-💡 Idea
-   ↓
-🧠 Plan
-   ↓
-🐍 Build with Python
-   ↓
-🗃️ Store data with SQLite
-   ↓
-📊 Create a useful interface
-   ↓
-🧪 Test & Improve
-   ↓
-🚀 Ship
-```
-
----
-
-## 🤖 Vibe Coding
-
-I'm especially interested in **Vibe Coding** — using AI-assisted development to move quickly from an idea to a working product.
-
-For me, Vibe Coding is not about blindly generating code.
-
-It's about:
-
-🧠 Thinking about the problem  
-🤖 Working with AI as a development partner  
-🛠️ Building quickly  
-🔍 Reviewing the result  
-🧪 Testing the software  
-🔄 Iterating until it works well
+**Simple • Useful • Reliable • Scalable**
 
 ---
 
 ## 🎯 Current Focus
 
-I'm currently focused on:
+I'm currently focusing on:
 
-- 🐍 Improving my Python development skills
-- 📊 Building better dashboards
-- 🗄️ Designing efficient SQLite-based applications
-- 🤖 Exploring AI-assisted development
-- ⚡ Turning ideas into usable software faster
-- 🌱 Continuously learning and experimenting
+- 🐍 Advanced Python development
+- 📊 Business & sales dashboards
+- 🗃️ Efficient SQLite-based applications
+- 📈 KPI and business analytics
+- 🤖 AI-assisted development
+- ⚡ Automation
+- 🌐 Combining business knowledge with technology
+- 🧠 Smart Business & Information Technology
+
+---
+
+## 🌱 Learning & Exploring
+
+I'm continuously exploring new ways to combine:
+
+**Business + Data + AI + Software**
+
+to create solutions that can solve real-world problems. 🚀
 
 ---
 
 ## 📌 Repository Philosophy
 
-Most projects here are built around one simple idea:
+Most of my projects are built around one principle:
 
-**Solve a real problem with the simplest reliable solution.**
+> **Solve real problems with simple and reliable technology.**
 
 Less unnecessary complexity.  
 More useful software. 💙
@@ -123,8 +180,8 @@ More useful software. 💙
 
 ## 🚀 Let's Build Something
 
-This profile is a collection of my experiments, projects, ideas, and things I'm learning along the way.
+This GitHub profile is a collection of my projects, experiments, ideas, and things I'm learning along the way.
 
 Thanks for stopping by! 👋
 
-**Keep building. Keep learning. Keep experimenting. 🚀**
+### 💻 Build. Learn. Experiment. Repeat. 🚀
